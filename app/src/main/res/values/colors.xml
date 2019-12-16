@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--**********  copyright Jason Bamford 2019 ** please visit http://jasonbamford.uk/  ***********-->
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBackgound">#006699</color>
+    <color name="colorNeutral">#777777</color>
+    <color name="colorNegative">#aa0000</color>
+    <color name="colorPositive">#00aa00</color>
+    <color name="colorCancelled">#aa00aa</color>
+</resources>
